@@ -1,7 +1,7 @@
 - 👋 Hi, I’m a programming guy from Sweden
-- 👀 I’m interested in so many things and programming is a fix point I love
-- 🌱 I’m currently learning Javascript with node, React, Vue etc.
-- 💞️ I’m not currently looking to collaborate
+- 👀 interested in so many things and programming is a fix point I love,
+- 🌱currently learning Javascript with node, React, Vue etc,
+- 💞️not currently looking to collaborate.
 - 📫 How to reach me ... staffan'simmons¤g mail
 
 <!---
