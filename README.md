@@ -1,7 +1,7 @@
-- 👋 Hi, I’m a programming guy from Sweden
+- 👋 I’m a soft dev guy from Sweden
 - 👀 interested in so many things and programming is a fix point I love,
-- 🌱currently learning DotNET with C# etc.
-- 💞️not currently looking to collaborate.
+- 🌱 currently learning DotNET with C# etc.
+- 💞️ not currently looking to collaborate.
 - 📫 How to reach me ... staffan'simmons¤g mail
 
 <!---
